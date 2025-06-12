@@ -71,24 +71,7 @@ The dataset includes **55,500 records** with the following fields:
 
 ---
 
-## 📬 How to Use
+Name: Sayed Abdul Gaffar
+Domain : Data Analytics
 
-1. Download or clone the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Refresh the data connection if prompted.
-4. Interact with filters and visuals to explore the insights.
-
----
-
-## 📣 Author
-
-**Sayyed Abdul Ghaffar**  
-Data Analyst | Power BI Developer  
-📍 Karwar, Karnataka | 📧 [Your Email]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
