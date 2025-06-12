@@ -70,8 +70,6 @@ The dataset includes **55,500 records** with the following fields:
 - ✅ **`cleaned_healthcare_dataset.csv`** – Preprocessed dataset used for dashboard development.
 
 ---
-
-Name: Sayed Abdul Gaffar
-Domain : Data Analytics
+✅ Author: Sayed Abdul Gaffar 🎯 Role: Data Analyst Intern @ TechNest 📅 Project: Healthcare analytics dashboard using Power BI
 
 
